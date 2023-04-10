@@ -1,0 +1,32 @@
+
+.letra{
+    display: flex;
+    font-size: xx-large;
+    color: white;
+    margin: 100px;
+    flex-direction: column;
+    
+}
+
+.contacto{
+    display: flex;
+    padding: 6%;
+    flex-direction: column;
+    align-items:center;
+}
+
+.iconosLyW{
+    display: flex;
+    flex-direction: row;
+}
+
+.iconoL{
+    margin: 10px;
+}
+.iconoW{
+    margin: 10px;
+}
+.iconoG{
+    margin: 10px;
+}
+

@@ -1,0 +1,28 @@
+.body{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(53, 52, 52);
+}
+
+.elclima{
+  display: flex;
+  margin: 10px;
+}
+
+.about{
+  display: flex;
+  margin-left: 125px;
+  font-size: 20px;
+  color:white;
+}
+
+.busqueda{
+  display: flex;
+  
+}
+
+.titulo{
+  color:white;
+  margin: 5px;
+}
